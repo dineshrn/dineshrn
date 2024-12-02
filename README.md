@@ -31,8 +31,8 @@ Creating a Next.js app that enables real-time EPUB reading and annotation with W
 
 ## 🤝 Let’s Connect!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dineshrn751/)
-- **Email**: [your.email@example.com](mailto:rndinesh751@gmail.com)  
+- **LinkedIn**: [Dinesh R N](https://www.linkedin.com/in/dineshrn751/)
+- **Email**: [dineshrn751@gmail.com](mailto:rndinesh751@gmail.com)  
 
 ---
 
