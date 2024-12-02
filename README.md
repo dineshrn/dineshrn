@@ -29,12 +29,6 @@ Creating a Next.js app that enables real-time EPUB reading and annotation with W
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dineshrn&show_icons=true&theme=tokyonight)
-
----
-
 ## 🤝 Let’s Connect!
 
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dineshrn751/)
